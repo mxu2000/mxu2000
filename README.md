@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Maxine Xu
 
-**`Digital Artisan & Emerging Data Scientist`**
+**`Aspiring Data Scientist`**
 
 ## About Me:
 
