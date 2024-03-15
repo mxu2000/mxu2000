@@ -23,7 +23,7 @@
 
 ## 🏆 Featured Projects
 
-### 🧬[Genomics Annotation Service using AWS](https://github.com/mxu2000/genomics-annotation-service)
+### 🧬[Genomics Annotation Service using Amazon Web Services](https://github.com/mxu2000/genomics-annotation-service)
 
 #### Overview
 The Genomics Annotation Service is a cloud-based platform designed to leverage the power of Amazon Web Services, including EC2, DynamoDB, Glacier, SQS, SNS, and SES, to provide a robust genomic annotation service.
