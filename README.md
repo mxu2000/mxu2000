@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Maxine Xu
 
 **`Aspiring Data Scientist`**
-[![Introduction](https://github.com/mxu2000/mxu2000/blob/main/profilevid.mp4)")
 
 ## About Me:
 
