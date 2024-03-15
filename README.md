@@ -9,7 +9,7 @@
 - 📊 I have experience in data analysis, machine learning, web development, and building interactive dashboards.
 - 🌱 I'm interested in natural language processing and deep learning models.
 
-### ⚙️ Languages and Tools:
+## ⚙️ Languages and Tools:
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
