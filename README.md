@@ -59,6 +59,7 @@ Since 1 in 4 children in Cook County are at risk of hunger, we hope that our app
 #### Overview
 In this project, my teammates and I developed a deep learning algorithm to diagonalize pneumonia from chest x-ray images of one to five years old from Guangzhou Women and Children’s Medical Center. After conducting an in-depth literature review, we performed image augmentation to obtain a balanced dataset and then used PyTorch to build a 3-layer convolutional neural network (CNN). To further improve the accuracy of our model, we performed a series of hyperparameter tuning, including different dropout rate, training epochs, learning rate, and additional layers. During the experiments, we customized a 3-layer model, which achieved an accuracy of 93.75% and a recall of 100%, and identified overfitting as our main challenge.
 
-![image](https://github.com/mxu2000/mxu2000/assets/111541644/d03e206d-db48-40de-9d1c-6c2a263fff3e)
+![image](https://github.com/mxu2000/mxu2000/assets/111541644/b5d158ae-ff22-43fb-be63-cdcbd045ad5c)
+
 
 
