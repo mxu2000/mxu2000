@@ -1,12 +1,12 @@
 # 👩🏻‍💻 Maxine Xu
 
-**`Aspiring Data Scientist`**
+**`Data & Analytics Enthusiast/Aspiring Data Scientist`**
 
 ## About Me:
 
 - 😄 Pronouns: She/her/hers
 - 🎓 Studying: Computer Science and Public Policy at the University of Chicago.
-- 📊 Expertise: Data analysis, machine learning, web development, and building interactive dashboards.
+- 📊 Expertise: Data analysis, data visualization, machine learning, and web development.
 - 🌱 Interests: Natural language processing and deep learning models.
 
 ### 👾 Languages and Tools:
