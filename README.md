@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Maxine Xu
+# 👩🏻‍💻 Hi there, I'm Maxine Xu
 
 **`Data & Analytics Enthusiast/Aspiring Data Scientist`**
 
