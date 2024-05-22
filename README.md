@@ -38,6 +38,18 @@ The Genomics Annotation Service is a cloud-based platform designed to leverage t
 
 ![image](https://github.com/mxu2000/mxu2000/assets/111541644/8e07d298-6a58-41bf-aaef-094729f0bc85)
 
+### 📊[DataForGood-Chicago: A Data Analysis and Visualization Tool](https://github.com/uchicago-capp-30320/DataForGood-chicago)
+
+#### Overview
+The main objective of our web application is to help small and medium-sized nonprofits collect, analyze, and use Census data efficiently to achieve their goals. By using advanced technologies like Python, GIS mapping, and data science techniques, including natural language processing and AI, the application will allow nonprofits to easily access and use the city's resources and information, plan strategically, and make data-driven decisions without needing extensive technical skills. Overall, the application aims to bridge the gap between data availability, accessibility, and its effective utilization by nonprofit organizations. It seeks to empower nonprofits to make informed decisions, optimize resource navigation and allocation, and enhance their impact on the communities they serve.
+
+#### Key Components
+- **Data and Dashboard:** Select variables and indicators for analysis, generate interactive visualizations, and customizable dashboards for comprehensive insights.
+- **Automated Memo Generation:** Summarize key insights from data and visuals, generate ready-to-use memos or paragraphs.
+- **Maps and City Resources:** Explore and navigate city resources using integrated ArcGIS Online functionality.
+
+![image](https://github.com/mxu2000/mxu2000/assets/111541644/c108642b-b7f9-4c75-911b-e5d93ed9f51c)
+
 ### 🍴[Food Accessibility and Security in Cook County](https://github.com/mxu2000/food_accessibility_project)
 
 #### Overview
