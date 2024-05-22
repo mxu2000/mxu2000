@@ -38,7 +38,7 @@ The Genomics Annotation Service is a cloud-based platform designed to leverage t
 
 ![image](https://github.com/mxu2000/mxu2000/assets/111541644/8e07d298-6a58-41bf-aaef-094729f0bc85)
 
-### 📊[DataForGood-Chicago: A Data Analysis and Visualization Tool](https://github.com/uchicago-capp-30320/DataForGood-chicago)
+### 🤝 [DataForGood-Chicago: A Data Analysis and Visualization Tool](https://github.com/uchicago-capp-30320/DataForGood-chicago)
 
 #### Overview
 The main objective of this web application is to help small and medium-sized nonprofits collect, analyze, and use Census data efficiently to achieve their goals. By using advanced technologies like Python, GIS mapping, and data science techniques, including natural language processing and AI, the application will allow nonprofits to easily access and use the city's resources and information, plan strategically, and make data-driven decisions without needing extensive technical skills. Overall, the application aims to bridge the gap between data availability, accessibility, and its effective utilization by nonprofit organizations. It seeks to empower nonprofits to make informed decisions, optimize resource navigation and allocation, and enhance their impact on the communities they serve.
