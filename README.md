@@ -1,11 +1,11 @@
 # 👩🏻‍💻 Hi there, I'm Maxine Xu!
 
-**`Data & Analytics Enthusiast/Aspiring Data Scientist`**
+**`Data & Analytics Enthusiast/Data Scientist`**
 
 ## About Me:
 
 - 😄 Pronouns: She/her/hers
-- 🎓 Studying: Computer Science and Public Policy at the University of Chicago.
+- 🛠️ Title: Data Scientist at the Federal Reserve Bank of Minneapolis.
 - 📊 Expertise: Data analysis, data visualization, machine learning, and web development.
 - 🌱 Interests: Natural language processing and deep learning models.
 
